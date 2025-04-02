@@ -1,0 +1,44 @@
+
+.bg_bswap{
+    background-color: #0059EE;;
+}
+
+
+.footerGrid {
+    display: grid;
+    grid-template-columns: 2fr 1fr 1fr;
+    grid-template-rows: 0.5fr repeat(3, auto);
+  }
+  
+  .logoSection {
+    grid-row: 2 / 4;
+    grid-column: 1 / 2;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  
+  .navigationSection {
+    grid-column: 2 / 3;
+    grid-row: 2 / 5;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  
+  .registrationSection {
+    grid-column: 1 / 2;
+    grid-row: 4 / 5;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+  }
+  
+  .socialSection {
+    grid-row: 4 / 5;
+    grid-column: 3 / 4;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+  }

@@ -1,0 +1,75 @@
+{
+    "books": [
+      {
+        "id": "cm7jjf1xg0000i14e6nhzkbvc",
+        "title": "Las Mil y una noche",
+        "author": "Pablo Neruda",
+        "isbn": "978-3-16-148410-0",
+        "published": "1967-05-30T00:00:00.000Z",
+        "publisher": "Sudamericana",
+        "image": "https://res.cloudinary.com/duyahznm2/image/upload/v1740141480/bswap/milyunanoches-PNeruda_jxkyns.png",
+        "genre": "Realismo mágico",
+        "exchange_available": true,
+        "status": "approved",
+        "libraryId": null,
+        "userId": "Pablo Guzman",
+        "reviews": [
+          {
+            "id": "101",
+            "user": {
+              "id": "cm79c6yl20000fh3jrmgy3ktm",
+              "name": "Julieta Muñoz",
+              "profile_picture": "https://res.cloudinary.com/duyahznm2/image/upload/c_thumb,w_200,g_face/v1740713650/bswap/face-indian-woman_priyinka_gtbhbs.jpg",
+              "country": "Argentina",
+              "city": "Buenos Aires"
+            },
+            "comment": "Un libro fascinante, lleno de magia e historia.",
+            "rating": 4,
+            "exchange_status": "Intercambiado"
+          },
+          {
+            "id": "102",
+            "user": {
+              "id": "usuario2",
+              "name": "Carlos Perez",
+              "profile_picture": "https://res.cloudinary.com/duyahznm2/image/upload/c_thumb,w_200,g_face/v1741045251/bswap/avatar-perfil_fupyvn.jpg",
+              "country": "Colombia",
+              "city": "Medellin"
+            },
+            "comment": "Una obra maestra de la literatura que transporta a otros mundos.",
+            "rating": 5,
+            "exchange_status": "Intercambiado"
+          }
+        ]
+      },
+      {
+        "id": "libro2",
+        "title": "1984",
+        "author": "George Orwell",
+        "isbn": "978-0-451-52493-5",
+        "published": "1949-06-08T00:00:00.000Z",
+        "publisher": "Secker & Warburg",
+        "image": "/bookgif.gif",
+        "genre": "Distopía",
+        "exchange_available": true,
+        "status": "approved",
+        "libraryId": null,
+        "userId": "Maria Rodriguez",
+        "reviews": [
+          {
+            "id": "201",
+            "user": {
+              "id": "usuario3",
+              "name": "Ana García",
+              "profile_picture": "/imagenprueba.png",
+              "country": "España",
+              "city": "Barcelona"
+            },
+            "comment": "Una obra profética que sigue siendo relevante en la actualidad.",
+            "rating": 5,
+            "exchange_status": "Intercambiado"
+          }
+        ]
+      }
+    ]
+  }

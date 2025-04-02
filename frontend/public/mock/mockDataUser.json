@@ -1,0 +1,28 @@
+[
+    {
+      "id": "cm79c6yl20000fh3jrmgy3ktm",
+      "email": "usuario1@example.com",
+      "password_hash": "$2a$10$1KnT6iHtet/Dqxtor9QIYuCXBp8yc/7xOXlU/otmLPEPmB22ghS96",
+      "name": "Julieta Muñoz",
+      "biography": "La paz del espacio de lectura",
+      "profile_picture": "https://res.cloudinary.com/duyahznm2/image/upload/c_thumb,w_200,g_face/v1740713650/bswap/face-indian-woman_priyinka_gtbhbs.jpg",
+      "country": "Argentina",
+      "city": "Buenos Aires",
+      "phone": null,
+      "privacy_preferences": null,
+      "registration_date": "2025-02-17T17:36:02.198Z"
+    },
+    {
+      "id": "cm79c6yl20001fh3jrmgy3kt2",
+      "email": "usuario2@example.com",
+      "password_hash": "$2a$10$1KnT6iHtet/Dqxtor9QIYuCXBp8yc/7xOXlU/otmLPEPmB22ghS96",
+      "name": "Alvaro Diaz",
+      "biography": "Amante de los libros",
+      "profile_picture": "https://res.cloudinary.com/duyahznm2/image/upload/c_thumb,w_200,g_face/v1741045251/bswap/avatar-perfil_fupyvn.jpg",
+      "country": "Colombia",
+      "city": "Medellin",
+      "phone": null,
+      "privacy_preferences": null,
+      "registration_date": "2025-02-18T10:15:30.198Z"
+    }
+  ]
